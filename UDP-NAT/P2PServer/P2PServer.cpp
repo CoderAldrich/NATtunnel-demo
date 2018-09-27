@@ -231,8 +231,7 @@ int main(int argc, char* argv[])
 								break;
 							}
 						}
-						if(removeiterator != NULL)
-							ClientList.remove(*removeiterator);
+						ClientList.remove(*removeiterator);
 						break;
 					}
 				case P2PTRANS:

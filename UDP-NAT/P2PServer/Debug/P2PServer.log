@@ -1,0 +1,8 @@
+﻿  P2PServer.cpp
+e:\work\code\nat穿透\udp-nat\exception.h(46): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\work\code\nat穿透\udp-nat\p2pserver\p2pserver.cpp(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+P2PServer.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  P2PServer.vcxproj -> E:\WORK\CODE\nat穿透\UDP-NAT\P2PServer\.\Debug\P2PServer.exe
+  P2PServer.vcxproj -> .\Debug\P2PServer.pdb (Full PDB)
